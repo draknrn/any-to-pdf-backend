@@ -1,7 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Smooth scrollbar + selection */
-* { scrollbar-width: thin; }
-::selection { background: #7A3FFF; color: white; }
