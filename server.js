@@ -5,7 +5,6 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { PDFDocument, StandardFonts, rgb } from "pdf-lib";
-import libre from "libreoffice-convert";
 import { execSync } from "child_process";
 import mammoth from "mammoth";
 
